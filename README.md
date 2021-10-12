@@ -1,7 +1,7 @@
 ### console.log('Ola Mundo, meu nome é João Victor 😁')
 
 
-- 🌱 Estou aprendendo TypeScript && TailWind Css
+- 🌱 Estou aprendendo TypeScript | TailWind Css | Vue.js
 - 📫 https://jvictorc-io.web.app/ && joaogmavictor@gmail.com
 - 😄 Ele / Dele
 
