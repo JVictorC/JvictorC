@@ -2,7 +2,7 @@
 
 
 - 🌱 Estou Aprendendo Flutter && Vue.js
-- 📫 https://jvictorc-io.web.app/ && joaogmavictor@gmail.com
+- 📫 https://jvictorc-io.web.app/ && joaogmavictor@gmail.com && https://www.linkedin.com/in/jvictorcsd/
 - 😄 Ele / Dele
 
 
