@@ -1,7 +1,7 @@
 ### console.log('Ola Mundo, meu nome é João Victor 😁')
 
 
-- 🌱 Estou Aprendendo Flutter && Vue.js
+- 🌱 Estou Aprendendo Flutter || Dart || Vue.js
 - 📫 https://jvictorc-io.web.app/ && joaogmavictor@gmail.com && https://www.linkedin.com/in/jvictorcsd/
 - 😄 Ele / Dele
 
