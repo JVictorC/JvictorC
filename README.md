@@ -1,7 +1,7 @@
 ### console.log('Ola Mundo, meu nome é João Victor 😁')
 
 
-- 🌱 Estou Aprendendo Flutter | Vue.js
+- 🌱 Estou Aprendendo Flutter && Vue.js
 - 📫 https://jvictorc-io.web.app/ && joaogmavictor@gmail.com
 - 😄 Ele / Dele
 
@@ -20,6 +20,8 @@
   <img align="center" alt="JVictorC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JVictorC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img height="30" align="center" width="40" alt="JVictorC-SASS"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img height="30" align="center" width="40" alt="JVictorC-Flutter"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 
 ##
