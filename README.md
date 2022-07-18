@@ -13,15 +13,18 @@
 </div>
 </div>
 <div style="display: inline_block" align="center"><br>
-    <img height="30" align="center" width="40" alt="JVictorC-Flutter"
+   <img height="30" align="center" width="40" alt="JVictorC-Flutter"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+   <img height="30" align="center" width="40" alt="JVictorC-Swift"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"  />
+  <img height="30" align="center" width="40" alt="JVictorC-Xcode"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg"  />
+  <img height="30" align="center" width="40" alt="JVictorC-Apple"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  />
   <img height="30" align="center" width="40" alt="JVictorC-Kotlin"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"  />
   <img height="30" align="center" width="40" alt="JVictorC-Android"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  />
-  <img height="30" align="center" width="40" alt="JVictorC-Android_Studio"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"  />
-  
    <img align="center" alt="JVictorC-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="JVictorC-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="JVictorC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
